@@ -6,11 +6,11 @@
 }
 @font-face {
   font-family:'RockSalt';
-  src:url(fonts/RockSalt.ttf)
+  src:url(RockSalt.ttf)
 }
 @font-face {
   font-family:'PowellAntique';
-  src:url(fonts/PowellAntique.ttf)
+  src:url(PowellAntique.ttf)
 }
 body{
   height: 100vh;
@@ -31,7 +31,7 @@ body{
   min-width: 900px;
   min-height: 900px;
   border-radius: 50%;
-  background-image: url("images/clock_back2.jpg"); 
+  background-image: url("clock_back2.jpg"); 
   border: 20px solid rgb(66, 35, 0);
   -webkit-box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.8);
   -moz-box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.8);
